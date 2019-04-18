@@ -1,6 +1,10 @@
 # Writeas-Search
 
-Make sure you have the latest version of the [Write.as API Library](https://github.com/cjeller1592/Writeas-API)
+Make sure you have the latest version of the [Write.as API Library](https://github.com/cjeller1592/Writeas-API). 
+
+This will not work on anything before version 0.1.7. 
+
+---
 
 All that is required is the **alias** of the collection you are searching and the **query**. 
 
