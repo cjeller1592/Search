@@ -1,5 +1,7 @@
 # Writeas-Search
 
+Make sure you have the latest version of the [Write.as API Library](https://github.com/cjeller1592/Writeas-API)
+
 All that is required is the **alias** of the collection you are searching and the **query**. 
 
 The search is case insensitive (which might change). 
